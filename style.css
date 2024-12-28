@@ -1,0 +1,26 @@
+/* External Style sheet for box model */
+
+.main {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.main2{
+    text-align: center;
+}
+.boxModel{
+    padding: 2vw;
+    margin: 2vw;
+    display:flex;
+}
+
+div{
+    border: 8px solid rgb(221, 185, 160);
+    padding: 30x;
+    margin: 2px;
+    font-size: 22px;
+    padding: 20px;
+    color:darkolivegreen;
+    background-color: rgb(242, 241, 230);
+    
+}
